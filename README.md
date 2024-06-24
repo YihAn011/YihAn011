@@ -4,7 +4,7 @@ Hello I'm Yihe An
 
 Here are my tech stacks:  
 C/C++, Python, Java, HTML/CSS, JavaScript, SQL(learning)  
-Git, Docker
+Git, Docker, CMake, ROS
 
 <!---
 YihAn011/YihAn011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
