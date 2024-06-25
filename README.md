@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 <h1 align="center">Hi 👋, I'm Yihe An</h1>
-<h3 align="center">A student at University of California, Irvine</h3>
+<h3 align="center">An undergraduate student at University of California, Irvine</h3>
 
 - 🔭 I’m currently working on **Integrate a new planner into ADS software like Apollo**
 
