@@ -1,12 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 <h1 align="center">Hi 👋, I'm Yihe An</h1>
-<h3 align="center">An undergraduate student at University of California, Irvine</h3>
+<h3 align="center">Master's student at Columbia University</h3>
 
-- 🔭 I’m currently working on **Integrate a new planner into ADS software like Apollo**
-
-- 🌱 I’m currently learning **ROS2**
-
-- 📫 How to reach me **yihea@uci.edu**
+- 🎓 I completed my Bachelor's degree in Computer Science at **UC Irvine**
+- 🔭 I’m currently working on **solving LeetCode problems**
+- 📫 You can reach me at **ya2568@columbia.edu**
 
 
 <h3 align="left">Languages and Tools:</h3>
