@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 <h1 align="center">Hi 👋, I'm Yihe An</h1>
-<h3 align="center">Master's student at Columbia University</h3>
+<h3 align="center">Master's student in Computer Science at Columbia University</h3>
 
 - 🎓 I completed my Bachelor's degree in Computer Science at **UC Irvine**
 - 🔭 I’m currently working on **solving LeetCode problems**
