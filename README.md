@@ -3,7 +3,7 @@
 <h3 align="center">Master's student in Computer Science at Columbia University</h3>
 
 - 🎓 I completed my Bachelor's degree in Computer Science at **UC Irvine**
-- 🔭 I’m currently working on **solving LeetCode problems**
+- 🔭 I’m currently looking for a **software engineering internship for Summer 2026**
 - 📫 You can reach me at **ya2568@columbia.edu**
 
 
